@@ -4,6 +4,8 @@ import subprocess
 
 def check_permissions():
 
+    print("Checking file permissions...")
+    
     findings = []
 
     try:

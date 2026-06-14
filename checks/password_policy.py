@@ -2,6 +2,8 @@
 
 def check_password_policy():
 
+    print("Checking password policy...")
+    
     findings = []
 
     try:

@@ -3,6 +3,8 @@
 import subprocess
 
 def check_services():
+    
+    print("Checking services...")
 
     findings = []
 

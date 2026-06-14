@@ -1,6 +1,7 @@
 # checks/ssh_check.py
 
 def check_ssh():
+    print("Checking SSH configuraion")
 
     findings = []
 
